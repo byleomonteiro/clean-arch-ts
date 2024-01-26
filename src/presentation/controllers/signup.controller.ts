@@ -1,9 +1,7 @@
-class SignUpController {
+export class SignUpController {
   handle (httpRequest: any): any {
     return {
       statusCode: 400
     }
   }
 }
-
-export default SignUpController
