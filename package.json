@@ -19,10 +19,9 @@
     "@shelf/jest-mongodb": "^4.2.0",
     "@types/bcrypt": "^5.0.2",
     "@types/jest": "^29.5.12",
-    "@types/mongodb": "^4.0.7",
     "@types/node": "^20.11.30",
     "@types/validator": "^13.11.9",
-    "@typescript-eslint/eslint-plugin": "^7.3.1",
+    "@typescript-eslint/eslint-plugin": "^6.4.0",
     "eslint": "^8.57.0",
     "eslint-config-standard-with-typescript": "^43.0.1",
     "git-commit-msg-linter": "^5.0.7",
@@ -31,7 +30,7 @@
     "lint-staged": "^15.2.2",
     "ts-jest": "^29.1.2",
     "ts-node": "^10.9.2",
-    "typescript": "^5.4.2"
+    "typescript": "^5.4.3"
   },
   "dependencies": {
     "bcrypt": "^5.1.1",
